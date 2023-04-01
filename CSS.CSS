@@ -1,8 +1,11 @@
 footer{
     width:  100%;
     height: 100px;
-    background: #fcf4f4;
-    border-top: 2px solid #f1f1f1;
+    background: #fafafa;
+    border-top: 2px solid #d64747;
     position: absolute;
     bottom: 0;
+}
+body{
+    background: linear-gradient(70deg, rgb(32, 127, 164), rgb(41, 186, 87));
 }
