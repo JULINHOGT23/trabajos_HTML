@@ -36,5 +36,12 @@ form .title{
     font-size: 30px;
     margin-right: 20px;
  }
- 
+ form label input{
+    outline: none;
+    border: none;
+    background: transparent;
+    border-bottom: solid 1px rgb(207, 20, 20);
+    padding: 0 5px;
+    font-size: 18px;
+ }
  
