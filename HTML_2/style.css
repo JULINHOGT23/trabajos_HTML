@@ -20,6 +20,12 @@ form{
    flex-direction: column;
    background: rgb(254, 253, 252);
    text-align: center;
-   padding: 20px 25px;
+   padding: 50px 50px;
    box-shadow: 0 5px 10px;
 }
+form .title{
+    color: rgb(3, 0, 0);
+    font-size: 35px;
+    font-weight: 800;
+    margin-bottom: 30px;
+ }
