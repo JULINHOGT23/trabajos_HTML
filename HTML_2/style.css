@@ -44,4 +44,7 @@ form .title{
     padding: 0 5px;
     font-size: 18px;
  }
+ form label input::placeholder{
+    color: rgb(61, 11, 225);
+ }
  
