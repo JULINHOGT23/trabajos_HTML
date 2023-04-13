@@ -47,4 +47,12 @@ form .title{
  form label input::placeholder{
     color: rgb(61, 11, 225);
  }
- 
+ form button{
+    width: 100%;
+    background: rgb(45, 165, 240);
+    border: none;
+    padding: 12px;
+    color: rgb(11, 11, 11);
+    margin: 16px 0;
+    font-size: 16px;
+ }
