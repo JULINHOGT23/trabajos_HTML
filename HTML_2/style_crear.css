@@ -38,3 +38,8 @@ body{
     font-family: comic;
     font-size: 18px;
 }
+.form-register p{
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+}
