@@ -10,19 +10,23 @@ body{
     align-items: center;
     min-height: 100vh;
     width: 100;
-    background: url(924504.jpg)no-repeat;
+    background: url(1082092.jpg)no-repeat;
     background-position: center;
     background-size: cover;
 }
 .form-register{
     width: 400px;
-    background: #112233;
+    background:transparent;
     padding: 30px;
     margin: auto;
     margin-top: 100px;
-    border-radius: 4px;
+    border-radius: 25px;
     font-family: comic;
     color: white;
+    box-shadow: 0 10px 15px;
+    border: 2px solid rgba(255,255,255,0.5);
+    position: relative;
+    backdrop-filter: blur(6px);
 }
 .form-register h4{
     font-size: 22px;
