@@ -18,4 +18,8 @@ function validar() {
     else if(password.length>15) {
         alert("el password es muy largo")
     }
+    else if(isNaN(telefono)) {
+        alert("el telefono ingresado no es un numero");
+        return false;
+    }
 }
