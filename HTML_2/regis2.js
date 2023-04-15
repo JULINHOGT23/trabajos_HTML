@@ -6,6 +6,11 @@ function validar() {
     password = document.getElementById("password").value;
 
     if(nombre === ""){
-        alert("la ocion nombre esta vasillo")
+        alert("el campo nombre esta vacio")
+        return false;
+    }
+    else if (fecha === ""){
+        alert("el campo fecha esta vacio")
+        return false;
     }
 }
